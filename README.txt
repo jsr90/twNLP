@@ -1,0 +1,2 @@
+This project allows to train a BERT model using 'Spanish_tweets.csv' dataset, and get predictions from 'tweets_svq.csv' and 'tweets_mlg.csv'.
+0 determines a positive or neutral tweet and 1 a negative tweet. This prediction is stored in data/output, just as the model 'saved_weights.pt' that I can't upload due to its size.
